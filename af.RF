@@ -1,0 +1,24 @@
+train <- read.csv("bloodgroup.csv", header=T)
+train[] <- lapply(train, as.numeric)
+test<- read.csv("test.csv", header=T)
+test[] <- lapply(test, as.numeric)
+
+param <- list(max_depth = 2, eta = 1, silent = 1, nthread = 2,
+              objective = "binary:logistic", eval_metric = "logloss")
+#param <- list(objective = "binary:logistic",
+ #             eval_metric = "logloss",
+  #            "eta" = 1, "max.depth" = 2, 
+   #           "outputmargin"=FALSE)
+bst.cv = xgb.cv(params =param, data = as.matrix(train[,1:5]), label = as.numeric(train$Made.Donation.in.March.2007), nfold = 10, nrounds = 20)
+
+
+plot(log(bst.cv$test.logloss.mean),type = "l")
+bst <- xgboost(data = as.matrix(train[,1:5]), label = as.numeric(train$Made.Donation.in.March.2007), max.depth = 24, eta = 0.04, nround = 10,nthread = 4, objective = "binary:logistic")
+
+preds=predict(bst,as.matrix(test))
+
+submission <- data.frame(test$X, preds)
+
+newxgb <- write.csv(file = "newxgb.csv", submission)
+
+data(agaricus.train)

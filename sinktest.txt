@@ -1,0 +1,778 @@
+Fitting Repeat 1 
+
+# weights:  13
+initial  value 140.453623 
+final  value 138.039688 
+converged
+Fitting Repeat 2 
+
+# weights:  13
+initial  value 116.455077 
+iter  10 value 0.010804
+iter  20 value 0.004024
+iter  30 value 0.003332
+iter  40 value 0.003046
+iter  50 value 0.002202
+iter  60 value 0.001868
+iter  70 value 0.001802
+iter  80 value 0.001744
+iter  90 value 0.001670
+iter 100 value 0.001635
+iter 110 value 0.001360
+iter 120 value 0.001280
+iter 130 value 0.001125
+iter 140 value 0.001004
+iter 150 value 0.000980
+iter 160 value 0.000973
+iter 170 value 0.000920
+iter 180 value 0.000912
+iter 190 value 0.000905
+iter 200 value 0.000901
+final  value 0.000901 
+stopped after 200 iterations
+Fitting Repeat 3 
+
+# weights:  13
+initial  value 108.832995 
+iter  10 value 0.014304
+iter  20 value 0.004508
+iter  30 value 0.004208
+iter  40 value 0.001764
+iter  50 value 0.001615
+iter  60 value 0.001567
+iter  70 value 0.001501
+iter  80 value 0.001476
+iter  90 value 0.001371
+iter 100 value 0.001329
+iter 110 value 0.001291
+iter 120 value 0.001206
+iter 130 value 0.001194
+iter 140 value 0.001193
+iter 150 value 0.001183
+iter 160 value 0.001181
+iter 170 value 0.001164
+iter 180 value 0.001163
+iter 190 value 0.001163
+iter 200 value 0.001163
+final  value 0.001163 
+stopped after 200 iterations
+Fitting Repeat 4 
+
+# weights:  13
+initial  value 102.713887 
+iter  10 value 0.004973
+iter  20 value 0.004789
+iter  30 value 0.001849
+iter  40 value 0.001791
+iter  50 value 0.001779
+iter  60 value 0.001682
+iter  70 value 0.001419
+iter  80 value 0.001351
+iter  90 value 0.001336
+iter 100 value 0.001292
+iter 110 value 0.001279
+iter 120 value 0.001266
+iter 130 value 0.001238
+iter 140 value 0.001212
+iter 150 value 0.001209
+iter 160 value 0.001203
+iter 170 value 0.001192
+iter 180 value 0.001187
+iter 190 value 0.001182
+iter 200 value 0.001179
+final  value 0.001179 
+stopped after 200 iterations
+Fitting Repeat 5 
+
+# weights:  13
+initial  value 191.039623 
+iter  10 value 138.004100
+iter  20 value 137.997440
+iter  30 value 137.996233
+iter  40 value 137.993418
+iter  50 value 137.982107
+iter  60 value 137.714903
+iter  70 value 0.013651
+iter  80 value 0.007452
+iter  90 value 0.006181
+iter 100 value 0.002307
+iter 110 value 0.001923
+iter 120 value 0.001685
+iter 130 value 0.001641
+iter 140 value 0.001572
+iter 150 value 0.001509
+iter 160 value 0.001404
+iter 170 value 0.001279
+iter 180 value 0.001244
+iter 190 value 0.001221
+iter 200 value 0.001178
+final  value 0.001178 
+stopped after 200 iterations
+Fitting Repeat 6 
+
+# weights:  13
+initial  value 193.655672 
+iter  10 value 138.004210
+iter  20 value 137.999592
+iter  30 value 137.999503
+iter  40 value 137.999394
+iter  50 value 137.999255
+iter  60 value 137.999073
+iter  70 value 137.998825
+iter  80 value 137.998466
+iter  90 value 137.997904
+iter 100 value 137.996912
+iter 110 value 137.994763
+iter 120 value 137.987809
+iter 130 value 137.924258
+iter 140 value 0.009705
+iter 150 value 0.002987
+iter 160 value 0.001445
+iter 170 value 0.001317
+iter 180 value 0.001192
+iter 190 value 0.001172
+iter 200 value 0.001165
+final  value 0.001165 
+stopped after 200 iterations
+Fitting Repeat 7 
+
+# weights:  13
+initial  value 130.865121 
+iter  10 value 0.020020
+iter  20 value 0.009891
+iter  30 value 0.005219
+iter  40 value 0.004893
+iter  50 value 0.002951
+iter  60 value 0.002762
+iter  70 value 0.002642
+iter  80 value 0.002617
+iter  90 value 0.002379
+iter 100 value 0.002043
+iter 110 value 0.001993
+iter 120 value 0.001824
+iter 130 value 0.001754
+iter 140 value 0.001705
+iter 150 value 0.001664
+iter 160 value 0.001615
+iter 170 value 0.001521
+iter 180 value 0.001483
+iter 190 value 0.001438
+iter 200 value 0.001408
+final  value 0.001408 
+stopped after 200 iterations
+Fitting Repeat 8 
+
+# weights:  13
+initial  value 184.709391 
+iter  10 value 138.003344
+iter  20 value 137.999884
+iter  30 value 137.999828
+iter  40 value 137.999763
+iter  50 value 137.999687
+iter  60 value 137.999595
+iter  70 value 137.999484
+iter  80 value 137.999345
+iter  90 value 137.999168
+iter 100 value 137.998935
+iter 110 value 137.998615
+iter 120 value 137.998153
+iter 130 value 137.997435
+iter 140 value 137.996224
+iter 150 value 137.994061
+iter 160 value 137.990132
+iter 170 value 137.982460
+iter 180 value 137.964746
+iter 190 value 137.905693
+iter 200 value 134.293162
+final  value 134.293162 
+stopped after 200 iterations
+Fitting Repeat 9 
+
+# weights:  13
+initial  value 122.982576 
+iter  10 value 0.023911
+iter  20 value 0.003820
+iter  30 value 0.001647
+iter  40 value 0.001588
+iter  50 value 0.001521
+iter  60 value 0.001400
+iter  70 value 0.001294
+iter  80 value 0.001282
+iter  90 value 0.001264
+iter 100 value 0.001255
+iter 110 value 0.001253
+iter 120 value 0.001237
+iter 130 value 0.001236
+iter 140 value 0.001234
+iter 150 value 0.001233
+iter 160 value 0.001232
+iter 170 value 0.001231
+iter 180 value 0.001230
+iter 190 value 0.001230
+iter 200 value 0.001229
+final  value 0.001229 
+stopped after 200 iterations
+Fitting Repeat 10 
+
+# weights:  13
+initial  value 163.504384 
+final  value 138.057377 
+converged
+Fitting Repeat 11 
+
+# weights:  13
+initial  value 227.419753 
+iter  10 value 138.003996
+final  value 138.000625 
+converged
+Fitting Repeat 12 
+
+# weights:  13
+initial  value 195.673222 
+iter  10 value 138.003619
+final  value 138.000318 
+converged
+Fitting Repeat 13 
+
+# weights:  13
+initial  value 132.020127 
+iter  10 value 0.009132
+iter  20 value 0.004676
+iter  30 value 0.004103
+iter  40 value 0.002909
+iter  50 value 0.002791
+iter  60 value 0.002067
+iter  70 value 0.001939
+iter  80 value 0.001724
+iter  90 value 0.001593
+iter 100 value 0.001499
+iter 110 value 0.001459
+iter 120 value 0.001223
+iter 130 value 0.001192
+iter 140 value 0.001179
+iter 150 value 0.001174
+iter 160 value 0.001171
+iter 170 value 0.001167
+iter 180 value 0.001166
+iter 190 value 0.001166
+iter 200 value 0.001163
+final  value 0.001163 
+stopped after 200 iterations
+Fitting Repeat 14 
+
+# weights:  13
+initial  value 164.701850 
+iter  10 value 138.003146
+final  value 138.000717 
+converged
+Fitting Repeat 15 
+
+# weights:  13
+initial  value 136.559145 
+iter  10 value 79.349948
+iter  20 value 0.320476
+iter  30 value 0.300154
+iter  40 value 0.056535
+iter  50 value 0.035176
+iter  60 value 0.004632
+iter  70 value 0.003400
+iter  80 value 0.002822
+iter  90 value 0.002759
+iter 100 value 0.002521
+iter 110 value 0.002266
+iter 120 value 0.001892
+iter 130 value 0.001837
+iter 140 value 0.001798
+iter 150 value 0.001515
+iter 160 value 0.001479
+iter 170 value 0.001458
+iter 180 value 0.001429
+iter 190 value 0.001388
+iter 200 value 0.001300
+final  value 0.001300 
+stopped after 200 iterations
+Fitting Repeat 16 
+
+# weights:  13
+initial  value 151.476261 
+final  value 138.047853 
+converged
+Fitting Repeat 17 
+
+# weights:  13
+initial  value 120.960000 
+iter  10 value 0.046041
+iter  20 value 0.013256
+iter  30 value 0.012995
+iter  40 value 0.007330
+iter  50 value 0.006754
+iter  60 value 0.006624
+iter  70 value 0.004629
+iter  80 value 0.003709
+iter  90 value 0.002481
+iter 100 value 0.002416
+iter 110 value 0.002013
+iter 120 value 0.001586
+iter 130 value 0.001558
+iter 140 value 0.001546
+iter 150 value 0.001491
+iter 160 value 0.001252
+iter 170 value 0.001208
+iter 180 value 0.001072
+iter 190 value 0.000992
+iter 200 value 0.000961
+final  value 0.000961 
+stopped after 200 iterations
+Fitting Repeat 18 
+
+# weights:  13
+initial  value 117.442411 
+iter  10 value 0.006169
+iter  20 value 0.003083
+iter  30 value 0.002809
+iter  40 value 0.002074
+iter  50 value 0.001735
+iter  60 value 0.001681
+iter  70 value 0.001616
+iter  80 value 0.001448
+iter  90 value 0.001296
+iter 100 value 0.001233
+iter 110 value 0.001207
+iter 120 value 0.001201
+iter 130 value 0.001190
+iter 140 value 0.001178
+iter 150 value 0.001175
+iter 160 value 0.001173
+iter 170 value 0.001169
+iter 180 value 0.001168
+iter 190 value 0.001167
+iter 200 value 0.001166
+final  value 0.001166 
+stopped after 200 iterations
+Fitting Repeat 19 
+
+# weights:  13
+initial  value 139.558208 
+final  value 138.038310 
+converged
+Fitting Repeat 20 
+
+# weights:  13
+initial  value 108.278546 
+iter  10 value 0.006124
+iter  20 value 0.005806
+iter  30 value 0.002088
+iter  40 value 0.002030
+iter  50 value 0.001701
+iter  60 value 0.001639
+iter  70 value 0.001428
+iter  80 value 0.001324
+iter  90 value 0.001224
+iter 100 value 0.001187
+iter 110 value 0.001177
+iter 120 value 0.001168
+iter 130 value 0.001167
+iter 140 value 0.001164
+iter 150 value 0.001163
+iter 160 value 0.001163
+iter 170 value 0.001163
+iter 180 value 0.001163
+iter 190 value 0.001163
+final  value 0.001163 
+converged
+Fitting Repeat 21 
+
+# weights:  13
+initial  value 190.736966 
+iter  10 value 138.003926
+final  value 138.000630 
+converged
+Fitting Repeat 22 
+
+# weights:  13
+initial  value 144.848830 
+final  value 138.046098 
+converged
+Fitting Repeat 23 
+
+# weights:  13
+initial  value 164.018955 
+final  value 138.059102 
+converged
+Fitting Repeat 24 
+
+# weights:  13
+initial  value 141.207884 
+final  value 138.034644 
+converged
+Fitting Repeat 25 
+
+# weights:  13
+initial  value 116.994813 
+iter  10 value 6.160589
+iter  20 value 6.160247
+iter  30 value 5.160538
+iter  40 value 4.160593
+iter  50 value 0.024404
+iter  60 value 0.019079
+iter  70 value 0.007065
+iter  80 value 0.005591
+iter  90 value 0.005566
+iter 100 value 0.005189
+iter 110 value 0.005037
+iter 120 value 0.003528
+iter 130 value 0.002220
+iter 140 value 0.002082
+iter 150 value 0.002007
+iter 160 value 0.001632
+iter 170 value 0.001545
+iter 180 value 0.001502
+iter 190 value 0.001469
+iter 200 value 0.001370
+final  value 0.001370 
+stopped after 200 iterations
+Fitting Repeat 26 
+
+# weights:  13
+initial  value 149.733525 
+final  value 138.044645 
+converged
+Fitting Repeat 27 
+
+# weights:  13
+initial  value 158.867515 
+final  value 138.061022 
+converged
+Fitting Repeat 28 
+
+# weights:  13
+initial  value 125.790475 
+iter  10 value 0.013439
+iter  20 value 0.003252
+iter  30 value 0.002191
+iter  40 value 0.001698
+iter  50 value 0.001474
+iter  60 value 0.001405
+iter  70 value 0.001390
+iter  80 value 0.001305
+iter  90 value 0.001277
+iter 100 value 0.001248
+iter 110 value 0.001175
+iter 120 value 0.001168
+iter 130 value 0.001166
+iter 140 value 0.001163
+iter 150 value 0.001163
+iter 160 value 0.001163
+iter 170 value 0.001163
+final  value 0.001163 
+converged
+Fitting Repeat 29 
+
+# weights:  13
+initial  value 160.388931 
+final  value 138.057545 
+converged
+Fitting Repeat 30 
+
+# weights:  13
+initial  value 122.456946 
+iter  10 value 4.012066
+iter  20 value 4.012063
+iter  30 value 4.012060
+iter  40 value 4.012058
+iter  50 value 4.012055
+iter  60 value 4.012052
+iter  70 value 4.012050
+iter  80 value 4.012047
+iter  90 value 4.012044
+iter 100 value 4.012042
+iter 110 value 4.012039
+iter 120 value 4.012036
+iter 130 value 4.012034
+iter 140 value 4.012031
+iter 150 value 4.012028
+iter 160 value 4.012026
+iter 170 value 4.012023
+iter 180 value 4.012020
+iter 190 value 4.012018
+iter 200 value 4.012015
+final  value 4.012015 
+stopped after 200 iterations
+Fitting Repeat 31 
+
+# weights:  13
+initial  value 180.298268 
+final  value 138.065812 
+converged
+Fitting Repeat 32 
+
+# weights:  13
+initial  value 141.881857 
+final  value 138.038734 
+converged
+Fitting Repeat 33 
+
+# weights:  13
+initial  value 140.110693 
+final  value 138.034152 
+converged
+Fitting Repeat 34 
+
+# weights:  13
+initial  value 162.976040 
+iter  10 value 138.003164
+final  value 138.000781 
+converged
+Fitting Repeat 35 
+
+# weights:  13
+initial  value 155.282598 
+final  value 138.059066 
+converged
+Fitting Repeat 36 
+
+# weights:  13
+initial  value 159.225291 
+final  value 138.062327 
+converged
+Fitting Repeat 37 
+
+# weights:  13
+initial  value 124.978523 
+iter  10 value 0.002507
+iter  20 value 0.002305
+iter  30 value 0.002076
+iter  40 value 0.001995
+iter  50 value 0.001698
+iter  60 value 0.001471
+iter  70 value 0.001385
+iter  80 value 0.000994
+iter  90 value 0.000946
+iter 100 value 0.000929
+iter 110 value 0.000904
+iter 120 value 0.000893
+iter 130 value 0.000890
+iter 140 value 0.000882
+iter 150 value 0.000882
+iter 160 value 0.000882
+final  value 0.000882 
+converged
+Fitting Repeat 38 
+
+# weights:  13
+initial  value 136.524325 
+iter  10 value 0.055348
+iter  20 value 0.047881
+iter  30 value 0.026154
+iter  40 value 0.021053
+iter  50 value 0.020133
+iter  60 value 0.019257
+iter  70 value 0.013286
+iter  80 value 0.012337
+iter  90 value 0.010763
+iter 100 value 0.010433
+iter 110 value 0.006654
+iter 120 value 0.004471
+iter 130 value 0.003739
+iter 140 value 0.002443
+iter 150 value 0.002193
+iter 160 value 0.002098
+iter 170 value 0.001893
+iter 180 value 0.001470
+iter 190 value 0.001234
+iter 200 value 0.001166
+final  value 0.001166 
+stopped after 200 iterations
+Fitting Repeat 39 
+
+# weights:  13
+initial  value 119.414174 
+iter  10 value 0.007720
+iter  20 value 0.002786
+iter  30 value 0.001736
+iter  40 value 0.001583
+iter  50 value 0.001529
+iter  60 value 0.001352
+iter  70 value 0.001349
+iter  80 value 0.001332
+iter  90 value 0.001281
+iter 100 value 0.001219
+iter 110 value 0.001190
+iter 120 value 0.001179
+iter 130 value 0.001174
+iter 140 value 0.001171
+iter 150 value 0.001170
+iter 160 value 0.001169
+iter 170 value 0.001166
+iter 180 value 0.001165
+iter 190 value 0.001165
+iter 200 value 0.001164
+final  value 0.001164 
+stopped after 200 iterations
+Fitting Repeat 40 
+
+# weights:  13
+initial  value 141.320262 
+final  value 138.041450 
+converged
+Fitting Repeat 41 
+
+# weights:  13
+initial  value 122.929833 
+iter  10 value 0.045343
+iter  20 value 0.008609
+iter  30 value 0.008543
+iter  40 value 0.007638
+iter  50 value 0.005875
+iter  60 value 0.003102
+iter  70 value 0.003074
+iter  80 value 0.001579
+iter  90 value 0.001433
+iter 100 value 0.001354
+iter 110 value 0.001347
+iter 120 value 0.001186
+iter 130 value 0.001145
+iter 140 value 0.001047
+iter 150 value 0.000985
+iter 160 value 0.000895
+iter 170 value 0.000890
+iter 180 value 0.000889
+iter 190 value 0.000888
+iter 200 value 0.000886
+final  value 0.000886 
+stopped after 200 iterations
+Fitting Repeat 42 
+
+# weights:  13
+initial  value 168.012335 
+final  value 138.064141 
+converged
+Fitting Repeat 43 
+
+# weights:  13
+initial  value 156.298008 
+final  value 138.056294 
+converged
+Fitting Repeat 44 
+
+# weights:  13
+initial  value 146.932848 
+final  value 138.044551 
+converged
+Fitting Repeat 45 
+
+# weights:  13
+initial  value 164.202500 
+final  value 138.058575 
+converged
+Fitting Repeat 46 
+
+# weights:  13
+initial  value 123.728520 
+iter  10 value 0.009198
+iter  20 value 0.001869
+iter  30 value 0.001725
+iter  40 value 0.001622
+iter  50 value 0.001509
+iter  60 value 0.001384
+iter  70 value 0.001290
+iter  80 value 0.001275
+iter  90 value 0.001220
+iter 100 value 0.001107
+iter 110 value 0.000971
+iter 120 value 0.000945
+iter 130 value 0.000933
+iter 140 value 0.000917
+iter 150 value 0.000908
+iter 160 value 0.000895
+iter 170 value 0.000886
+iter 180 value 0.000885
+iter 190 value 0.000883
+iter 200 value 0.000882
+final  value 0.000882 
+stopped after 200 iterations
+Fitting Repeat 47 
+
+# weights:  13
+initial  value 134.694657 
+iter  10 value 0.002335
+iter  20 value 0.002293
+iter  30 value 0.001830
+iter  40 value 0.001687
+iter  50 value 0.001649
+iter  60 value 0.001269
+iter  70 value 0.001089
+iter  80 value 0.000979
+iter  90 value 0.000961
+iter 100 value 0.000944
+iter 110 value 0.000918
+iter 120 value 0.000909
+iter 130 value 0.000903
+iter 140 value 0.000888
+iter 150 value 0.000886
+iter 160 value 0.000886
+iter 170 value 0.000885
+iter 180 value 0.000884
+iter 190 value 0.000883
+iter 200 value 0.000883
+final  value 0.000883 
+stopped after 200 iterations
+Fitting Repeat 48 
+
+# weights:  13
+initial  value 123.490088 
+iter  10 value 2.026079
+iter  20 value 0.003068
+iter  30 value 0.001929
+iter  40 value 0.001838
+iter  50 value 0.001719
+iter  60 value 0.001619
+iter  70 value 0.001389
+iter  80 value 0.001347
+iter  90 value 0.001279
+iter 100 value 0.001268
+iter 110 value 0.001260
+iter 120 value 0.001244
+iter 130 value 0.001242
+iter 140 value 0.001241
+iter 150 value 0.001234
+iter 160 value 0.001233
+iter 170 value 0.001232
+iter 180 value 0.001231
+iter 190 value 0.001231
+iter 200 value 0.001230
+final  value 0.001230 
+stopped after 200 iterations
+Fitting Repeat 49 
+
+# weights:  13
+initial  value 114.213027 
+iter  10 value 0.003766
+iter  20 value 0.003557
+iter  30 value 0.002228
+iter  40 value 0.002138
+iter  50 value 0.001854
+iter  60 value 0.001822
+iter  70 value 0.001593
+iter  80 value 0.001563
+iter  90 value 0.001462
+iter 100 value 0.001428
+iter 110 value 0.001340
+iter 120 value 0.001313
+iter 130 value 0.001214
+iter 140 value 0.001191
+iter 150 value 0.001187
+iter 160 value 0.001174
+iter 170 value 0.001172
+iter 180 value 0.001163
+iter 190 value 0.001163
+iter 200 value 0.001162
+final  value 0.001162 
+stopped after 200 iterations
+Fitting Repeat 50 
+
+# weights:  13
+initial  value 193.419774 
+iter  10 value 138.003709
+final  value 138.000426 
+converged
